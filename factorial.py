@@ -23,7 +23,6 @@ while 6 < 8:
     while i // (5 ** verycool) != 0:
         meant += i // (5 ** verycool)
         verycool += 1
-    print(str(meant) + " wow")
     if os == 1:
         print(str(factorial(i)) + " is " + str(i) + "! and has 1 0")
     else:
